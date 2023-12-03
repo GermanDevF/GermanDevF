@@ -6,21 +6,27 @@ An passionate about software development, I am distinguished by my great curiosi
 - 🔭 I’m currently working on: Sigob SA de CV
 - 🌱 I’m currently learning: New technologies for frontend development such as NextJS, Astro and Svelte
 
-## Contact me:
+### Contact me
 [<img
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   alt="LinkedIn"
   width="22"
 />](https://www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210)
-
-## Or send me an email:
 [<img
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
   alt="Gmail"
   width="22"
 />](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=alejandrogermanleon@gmail.com)
 
+### Knowledge in
+<img
+  src="https://simpleicons.org/icons/nodedotjs.svg"
+  alt="NodeJS"
+  width="32"
+/>
 
+
+---
 [![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanDevF&hide=issues,stars&show_icons=true&theme=tokyonight)](https://github.com/GermanDevF)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanDevF&layout=compact&theme=tokyonight)](https://github.com/GermanDevF)
