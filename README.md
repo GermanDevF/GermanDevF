@@ -12,7 +12,7 @@ An passionate about software development, I am distinguished by my great curiosi
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   alt="LinkedIn"
   width="22"
-/>](www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210)
+/>](https://www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210)
 
 [![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanDevF&hide=issues,stars&show_icons=true&theme=tokyonight)](https://github.com/GermanDevF)
 
