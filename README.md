@@ -17,7 +17,7 @@ An passionate about software development, I am distinguished by my great curiosi
 </div>
 
 ### Knowledge in
-<div style="display:flex; gap:10px; justify-content: center;">
+<div style="display:flex; gap:10px;">
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="HTMLl5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="CSS3" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="Javascript" />
