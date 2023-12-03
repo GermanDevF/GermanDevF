@@ -7,13 +7,19 @@ An passionate about software development, I am distinguished by my great curiosi
 - 🌱 I’m currently learning: New technologies for frontend development such as NextJS, Astro and Svelte
 
 ### Contact me
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Gmail" />](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=alejandrogermanleon@gmail.com)
+<div style="text-decoration:none; display:flex; gap:15px">
+  <a href="https://www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210" target="_blank">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=alejandrogermanleon@gmail.com" target="_blank">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Gmail" />
+  </a>
+</div>
 
 ### Knowledge in
 <div style="display:flex; gap:10px">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="Html5" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="Css3" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="HTMLl5" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="CSS3" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="Javascript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react" alt="React" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="Typescript" />
@@ -35,6 +41,7 @@ An passionate about software development, I am distinguished by my great curiosi
 </div>
 
 ---
-[![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanDevF&hide=issues,stars&show_icons=true&theme=tokyonight)](https://github.com/GermanDevF)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanDevF&layout=compact&theme=tokyonight)](https://github.com/GermanDevF)
+<div style="display:flex; align-items: middle;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GermanDevF&show_icons=true&theme=tokyonight" alt="German's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanDevF&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
