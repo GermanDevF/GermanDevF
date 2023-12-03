@@ -13,7 +13,7 @@ An passionate about software development, I am distinguished by my great curiosi
   width="22"
 />](https://www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210)
 
-## Or send me an email:
+# Or send me an email:
 [<img
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
   alt="Gmail"
