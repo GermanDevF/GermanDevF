@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Alejandro German
+# Hi there 👋 I'm Alejandro German
 
 I'm a Software developer from Sonora, Mexico.
 An passionate about software development, I am distinguished by my great curiosity to know how applications, processes and good practices in software development work. I use a good part of my free time to learn new technologies and optimize the creation of applications. Currently I specialize in the frontend area but I also have knowledge in backend and database, my main language is JavaScript but I can adapt to any programming language
@@ -13,7 +13,7 @@ An passionate about software development, I am distinguished by my great curiosi
   width="22"
 />](https://www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210)
 
-# Or send me an email:
+## Or send me an email:
 [<img
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
   alt="Gmail"
