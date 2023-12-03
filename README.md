@@ -42,6 +42,6 @@ An passionate about software development, I am distinguished by my great curiosi
 
 ---
 <div style="display:flex; align-items: middle;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GermanDevF&show_icons=true&theme=tokyonight" alt="German's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanDevF&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GermanDevF&show_icons=true&theme=tokyonight" alt="German's GitHub stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanDevF&layout=compact&theme=tokyonight&langs_count=8&card_width=320" alt="Top Langs" />
 </div>
