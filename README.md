@@ -8,15 +8,13 @@ An passionate about software development, I am distinguished by my great curiosi
 
 ## Contact me:
 [<img
-  aling="left"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   alt="LinkedIn"
   width="22"
 />](https://www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210)
 
-## Or send me an email
+## Or send me an email:
 [<img
-  aling="left"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
   alt="Gmail"
   width="22"
