@@ -8,10 +8,10 @@ An passionate about software development, I am distinguished by my great curiosi
 
 ### Contact me
 <div style="text-decoration:none; display:flex; gap:15px">
-  <a href="https://www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210" target="_blank">
+  <a href="https://www.linkedin.com/in/guillermo-alejandro-leon-german-21a980210" target="_blank" style="text-decoration:none;">
     <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=alejandrogermanleon@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=alejandrogermanleon@gmail.com" target="_blank" style="text-decoration:none;">
     <img height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Gmail" />
   </a>
 </div>
